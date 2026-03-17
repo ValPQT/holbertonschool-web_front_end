@@ -1,4 +1,4 @@
-/* Task 21 */
+/* Task 22 */
 
 /* 1️⃣ Normalize CSS (Nicolas Gallagher) */
 @import url('https://necolas.github.io/normalize.css/8.0.1/normalize.css');
@@ -178,6 +178,12 @@ ul.row {
 
 .col-1-2 {
     width: 50%;
+}
+
+[data-section-theme="dark"] {
+    --text-color: var(--color-white);
+    --section-title-color: var(--color-white);
+    background-color: var(--color-black);
 }
 
 .container {
