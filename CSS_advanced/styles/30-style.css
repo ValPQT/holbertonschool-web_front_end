@@ -3,11 +3,6 @@
 /* 1️⃣ Normalize CSS (Nicolas Gallagher) */
 @import url('https://necolas.github.io/normalize.css/8.0.1/normalize.css');
 
-/* Task 29 */
-
-/* 1️⃣ Normalize CSS (Nicolas Gallagher) */
-@import url('https://necolas.github.io/normalize.css/8.0.1/normalize.css');
-
 *, *::before, *::after {
   box-sizing: border-box;
 }
